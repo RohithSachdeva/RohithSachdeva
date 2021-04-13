@@ -4,7 +4,7 @@ I'm a recent Lambda School graduate who is searching for a web developer positio
 
 Skills: React / Javascript / Node.js / HTML / CSS / Python
 
-- 🔭 I’m currently working on a personal projects using React + Redux and utilizing Stripe's API 
+- 🔭 I’m currently working on a personal projects using React-Redux and utilizing Stripe's API 
 - 🌱 I’m currently improving my Redux and Python skills  
 - 📫 How to reach me: LinkedIn 
 
