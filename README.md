@@ -4,8 +4,8 @@ I'm a recent Lambda School graduate who is searching for a web developer positio
 
 Skills: React / Javascript / Node.js / HTML / CSS / Python
 
-- 🔭 I’m currently working on private projects using React-Redux and Google Firebase 
-- 🌱 I’m currently improving my understanding of Redux and problem solving skills in Python   
+- 🔭 I’m currently working on private projects using React-Redux and Code Challenges  
+- 🌱 I’m currently improving my problem solving skills in Python and learning the basics of AWS    
 - 📫 How to reach me: LinkedIn 
 
 
