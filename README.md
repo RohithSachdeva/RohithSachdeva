@@ -1,11 +1,11 @@
 ### Hi there 👋, my name is Rohith.
 #### I am a Full-Stack Web Developer
-I'm a recent Lambda School graduate who is searching for a web developer position.  I love working with React and am hoping to learn other front-end libraries in depth.    
+I'm a recent Bloomtech graduate who is searching for my next Web Developer position.  I love working with React and using frameworks such as Next.js and Gatsby.    
 
-Skills: React / Javascript / Node.js / HTML / CSS / Python
+Skills: React / Javascript / Node.js / HTML / CSS / Python / Springboot / SQL
 
 - 🔭 I’m currently working on private projects using React-Redux, Next.js, and Code Challenges  
-- 🌱 I’m currently improving my problem solving skills using Python and learning the basics of AWS    
+- 🌱 I’m currently improving my problem solving skills using Python and learning AWS more in-depth.      
 - 📫 How to reach me: LinkedIn 
 
 
