@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Rohith.
 #### I am a Full-Stack Web Developer
-I'm a recent Bloomtech graduate who is searching for my next Web Developer position.  I love working with React and using frameworks such as Next.js and Gatsby.    
+I'm a Bloomtech alumni who is searching for my next Web Developer position.  I love working with React and using frameworks such as Next.js and Gatsby.    
 
 Skills: React / Javascript / Node.js / HTML / CSS / Python / Springboot / SQL
 
