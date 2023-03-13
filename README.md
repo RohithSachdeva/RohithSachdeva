@@ -4,8 +4,8 @@ I'm a Bloomtech alumni who is searching for my next Web Developer position.  I l
 
 Skills: React / Javascript / Node.js / HTML / CSS / Python / Springboot / SQL
 
-- 🔭 I’m currently working on private projects using React-Redux, Next.js, and Code Challenges  
-- 🌱 I’m currently improving my problem solving skills using Python and learning AWS more in-depth.      
+- 🔭 I’m currently working on private projects using React, Next.js, and Code Challenges  
+- 🌱 I’m currently improving my problem solving skills using Python and learning AWS more in-depth      
 - 📫 How to reach me: LinkedIn 
 
 
